@@ -37,7 +37,7 @@ An interactive **Stock Market Analysis Dashboard** built using **Streamlit** tha
 ## 👩‍💻 Developed By
 **Nandini Shilpkar**
 
-🔗 GitHub:  
+🔗 GitHub: https://github.com/Komalshilpkar/Nandinistock 
 🔗 LinkedIn: www.linkedin.com/in/
 nandini-s-836ba55b
 
