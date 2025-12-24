@@ -1,8 +1,8 @@
+tensorflow
 streamlit
 yfinance
 numpy
 pandas
 matplotlib
 ta
-tensorflow
 scikit-learn
