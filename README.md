@@ -1,12 +1,13 @@
-AI Stock Market Dashboard
+# AI Stock Market Dashboard
 
 An interactive **Stock Market Analysis Dashboard** built using **Streamlit** that helps users analyze stocks with technical indicators and AI-based predictions.
 
-Live Demo https://nandinistock-x6hbjqmh5qdzrn5v2vmappn.streamlit.app/
+## Live Demo 
+https://nandinistock-x6hbjqmh5qdzrn5v2vmappn.streamlit.app/
 
 
 
- Features
+## Features
 - Real-time stock data using Yahoo Finance
 - Technical Indicators:
   - RSI
@@ -19,7 +20,7 @@ Live Demo https://nandinistock-x6hbjqmh5qdzrn5v2vmappn.streamlit.app/
 
 
 
-Tech Stack
+## Tech Stack
 - Python
 - Streamlit
 - TensorFlow / Keras
